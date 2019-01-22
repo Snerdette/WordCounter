@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1548187751 source:c:\users\katyl\workspace\oit\examples\wordcounter\main.cpp
+	<string>
+	<iostream>
+	<fstream>
+	<iomanip>
+

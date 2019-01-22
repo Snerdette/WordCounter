@@ -1,0 +1,5 @@
+this is a test file for lab 1 winter 2019.  
+it has 3 for keywords, 3 if keywords, 2 while keywords 2 case keywords and 1 else
+there are other words mixed in.  while the file is small, it has 83 words.  if it were a program file it would look different. 
+the case keyword is a better choice than the switch because it indicates a branch.
+ i decided to not capitalize words so that you wouldn't have to worry about it.  
